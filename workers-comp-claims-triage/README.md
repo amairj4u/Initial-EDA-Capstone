@@ -13,8 +13,7 @@ low risk soon after they are filed?
 
 The full analysis is in the Jupyter notebook:
 
-[notebooks/eda_and_baseline_model.ipynb](notebooks/eda_and_baseline_model.ipynb)
-
+[https://github.com/amairj4u/Initial-EDA-Capstone/blob/main/workers-comp-claims-triage/eda_and_baseline_model.ipynb](eda_and_baseline_model.ipynb)
 It covers data cleaning, feature engineering, exploratory data analysis with
 visualizations, and one baseline machine learning model (Logistic Regression)
 that classifies each claim as high risk or low risk.
@@ -122,6 +121,6 @@ workers-comp-claims-triage/
 3. Open the notebook and run all cells:
 
 ```
-jupyter notebook notebooks/eda_and_baseline_model.ipynb
+Link to the [notebook](https://github.com/amairj4u/Initial-EDA-Capstone/blob/main/workers-comp-claims-triage/eda_and_baseline_model.ipynb)
 
 ```
