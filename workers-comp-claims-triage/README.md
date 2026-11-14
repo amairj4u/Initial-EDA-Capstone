@@ -120,7 +120,5 @@ workers-comp-claims-triage/
 2. Place train.csv in the data folder (the included sample works as is).
 3. Open the notebook and run all cells:
 
-```
 Link to the [notebook](https://github.com/amairj4u/Initial-EDA-Capstone/blob/main/workers-comp-claims-triage/eda_and_baseline_model.ipynb)
 
-```
